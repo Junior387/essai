@@ -1,0 +1,58 @@
+Nom complet : Junior Ishimwe Mutumwa
+Numéro de dossier (NI) : 536953260
+Lien vers le dépôt GitHub PRIVÉ de votre TP : https://github.com/Junior387/ift-1004-H25-tp2
+Avez-vous invité les correcteurs comme collaborateurs à votre dépôt GitHub (Oui/Non) : oui
+Estimation du temps de réalisation : 2semaines
+
+
+Fonctionnalités
+---------------
+
+/10 : Le jeu se déroule fluidement et sans problèmes
+    Commentaires: 
+
+/10 : L'intelligence arrive à deviner le bon personnage
+    Commentaires: 
+
+/5 : L'intelligence devine le personnage en peu de questions
+    Commentaires: 
+
+/5 : Fonction types_caracteristiques_ordre_aleatoire
+    Commentaires: 
+
+/5 : Fonction valeurs_ordre_aleatoire
+    Commentaires: 
+
+/10 : Fonction possede
+    Commentaires: 
+
+/20 : Fonction score_dichotomie
+    Commentaires: 
+
+/10 : Fonction selectionner_caracteristique
+    Commentaires: 
+
+/10 : Fonction mettre_a_jour_hypotheses
+    Commentaires: 
+
+/5 : Respect de la décomposition fonctionnelle demandée
+    Commentaires: 
+
+/5 : Qualité du code (noms de variables, lisibilité, commentaires, documentation, respect des «interdits» pour ce travail)
+    Commentaires: 
+
+
+/5 : Lien du dépôt GitHub PRIVÉ présent et démontrant l'utilisation de Git
+    Commentaires: 
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+Total : /100
